@@ -1,0 +1,16 @@
+{
+  "uuid": "a8509791-cea7-7db8-22cb-14a38be1d9d5",
+  "attributes": {
+    "gender": "F",
+    "age": 0,
+    "race": "white",
+    "ethnicity": "hispanic"
+  },
+  "patientReportedData": {
+    "painLevel": 9,
+    "stressLevel": 9,
+    "dietQuality": "Fair",
+    "exerciseMinutesPerWeek": 110,
+    "sleepQuality": "Good"
+  }
+}
