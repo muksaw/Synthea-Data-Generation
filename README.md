@@ -91,18 +91,44 @@ In future versions, we plan to add:
 
 ## Skills and Technologies
 
-- **Java:** Core programming language for implementing the generator and data models
+### Programming Languages & Core Technologies
+- **Java:** Primary programming language for implementing the generator and data models
+- **Java Standard Library:** Utilizing core Java functionality for collections, I/O operations, and data structures
+- **Gradle:** Build automation tool for dependency management and project building
+- **Bash Scripting:** Used for build and execution scripts for compilation and running
+
+### Healthcare Data Technologies
 - **Synthea API:** Leveraging the Synthea library to generate synthetic healthcare data
+- **FHIR Standards Knowledge:** Understanding of healthcare interoperability standards
+- **Healthcare Data Modeling:** Expertise in representing medical information in structured formats
+
+### Software Design & Architecture
+- **Object-Oriented Design:** Application of OOD principles for modular and extensible code
+- **Design Patterns:** Implementation of software design patterns for maintainable architecture
+- **API Integration:** Integration with external libraries through well-defined interfaces
+- **Class Modeling:** Structured approach to modeling complex healthcare data entities
+
+### Performance & Efficiency
 - **Multi-threading:** Parallel patient generation using Java's ExecutorService
+- **Concurrency Management:** Safe handling of shared resources in a multi-threaded environment
+- **Performance Optimization:** Efficient data processing for large healthcare datasets
+
+### Data Processing & Formats
 - **JSON Serialization:** Custom JSON generation for data export
-- **Bash Scripting:** Build and execution scripts for compilation and running
-- **Object-Oriented Design:** Class modeling for enhanced patient data
-- **API Integration:** Working with Synthea's Generator and Person classes
-- **Data Modeling:** Structure design for patient-reported outcomes
-- **Random Data Generation:** Creating realistic patient-reported values
+- **Data Transformation:** Converting complex nested objects to flat output formats
+- **Random Data Generation:** Creating statistically realistic patient-reported values
+
+### Application Features
 - **Command-line Interface:** Parameter handling for customizing generation
+- **Configuration Management:** Flexible application settings through property files
 - **Error Handling:** Robust exception management throughout the application
+- **Validation:** Ensuring generated data meets expected constraints and formats
+
+### Development Practices
+- **Version Control (Git):** Management of source code with proper branching strategy
 - **Documentation:** Comprehensive documentation in README and USAGE guides
+- **Testing:** Verification of generator functionality and output correctness
+- **Collaborative Development:** Coordinated development between team members
 
 ## Developers
 
